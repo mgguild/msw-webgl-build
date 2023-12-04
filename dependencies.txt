@@ -1,5 +1,6 @@
 com.coffee.ui-particle@4.1.7
 com.cysharp.unitask@2.3.3
+com.kyrylokuzyk.primetween@1.1.1
 com.rotaryheart.serializabledictionarylite@2.6.11
 com.unity.2d.animation@7.0.11
 com.unity.2d.pixel-perfect@5.0.3
